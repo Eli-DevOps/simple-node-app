@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: CI/CD Pipeline jms
 
 on:
   push:
@@ -36,4 +36,4 @@ jobs:
     - name: Push Docker image
       run: docker push ${{ secrets.DOCKER_USERNAME }}/simple-node-app:latest
 
-    
+  
