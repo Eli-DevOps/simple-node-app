@@ -18,4 +18,4 @@ spec:
       - name: simple-node-app
         image: elikem1993/simple-node-app:latest
         ports:
-        - containerPort: 3000
+        - containerPort: 3000
