@@ -1,4 +1,4 @@
-name: CI/CD Pipeline jms
+name: CI/CD Pipeline jms002
 
 on:
   push:
