@@ -1,4 +1,4 @@
-name: CI/CD Pipeline jms002
+name: CI/CD Pipeline papa002
 
 on:
   push:
